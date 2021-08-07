@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Testing by me
+          Testing by Taniya
         </a>
       </header>
     </div>
