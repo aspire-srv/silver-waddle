@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Testing by Taniya
+          Testing by SRV
         </a>
       </header>
     </div>
